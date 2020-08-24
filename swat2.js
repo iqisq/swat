@@ -5,21 +5,6 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
 <a id="hack2"target="_blank"type="a"href="#"style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa"class="btn minix btn-primary">المدونة</a><a id="hack2"target="_blank"type="a"href="https://www.abraj2015.com/"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الآبراج</a><a id="hack2"target="_blank"type="a"href="https://www.wadhefa.com/"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">وظائف</a><a id="hack2"target="_blank"type="a"href="#"style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">بغداديات</a>
 <center>`).insertBefore(".nav-tabs")
 
-$(".ae.label.label-primary.fa.fa-gear").text(' ضبط');
-
-$('.nav-tabs').addClass('fl').css('width','100%');
-$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="https://www.sudfachat.com/sico/1580237645774.png" width="70%" style="">`)
-$("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` </div><center>
-$(`<div><marquee direction="right" id="as43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> &nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="jfa99">? || بغداديات   || ?</font> ? · ?أفضل سوبره لهذا الأسبوع · ? <font class="jfa99" color="#727A54">&nbsp;قريباً ? &nbsp;</font> ? · ?أفضل زائر لهذا الأسبوع · ? <font class="jfa88" color="#ff9900">&nbsp;قريباً &nbsp;</font> ? · ?أفضل زائرة لهذا الأسبوع · ? <font class="jfa88" color="#ff00ff">&nbsp; قريباً  &nbsp;</font> ? · مبدع الحائط لهذا الأسبوع · ? <font class="jfa88" color="#5CAD9A">&nbsp; قريباً  &nbsp;</font> ? · مبدعة الحائط لهذا الأسبوع · ? <font class="jfa88" color="#800000">&nbsp; قريباً &nbsp;</font> ? · ?أفضل أدارية لهذا الأسبوع · ? <font class="jfa88" color="#417570">&nbsp; قريباً  &nbsp;</font> ? · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
-</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
-$(`<link rel="stylesheet" href="https://raw.githack.com/Zagchatt/Kazz/master/Zag.css"></style>`).insertBefore("body"),eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$("2#9 b.4.4-d").e(5(){6 c=f(5(){6 a=$(".g").h;0<a?($(`<i j="k: 7.3%;\n																		l:7%;\n																		 8-m: n;\n																		o-p:q;\n																		8-r: s;\n																		"t="u://a.v.w/x.y\n										"></2><z>`).A("2#B"),C(c)):D.E(a)},1)});',41,41,'||div||btn|function|var|99|margin|tlogins||button||primary|click|setInterval|pmsgc|length|img|style|height|width|top|2px|pointer|events|none|bottom|5px|src|https|top4top|io|p_1696rm5x21|jpg|center|appendTo|chats|clearInterval|console|log'.split('|'),0,{}))
-
-
-
- if(location.protocol!='https:'){location.protocol='https:';}
-  
-eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
-$(".dpnl").css('width','310px');
 
 
  
